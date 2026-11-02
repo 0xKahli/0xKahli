@@ -39,15 +39,16 @@
 
 > 💡 Replace the link above with the exact repo URL and add your other projects as new rows.
 
-## 📊 GitHub stats
+## 🌱 What I'm up to
+
+- 🔨 **Building:** the MarkItDown converter, now heading to a native Android app
+- 📱 **Exploring:** cross-platform mobile apps with Flutter
+- 🔌 **Tinkering:** with Arduino and embedded projects
+- 🎯 **Goal:** ship small, useful tools and keep them open source
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=0xkahli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xkahli&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=0xkahli&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <a href="https://github.com/0xkahli?tab=followers"><img src="https://img.shields.io/github/followers/0xkahli?style=for-the-badge&logo=github&color=0e75b6" alt="Followers" /></a>
+  <a href="https://github.com/0xkahli?tab=repositories"><img src="https://img.shields.io/badge/Repositories-browse-0e75b6?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
 </p>
 
 ---
